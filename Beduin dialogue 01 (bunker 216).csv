@@ -1,0 +1,42 @@
+﻿"Root/Диалог Бедуина/А, это ты, Ворон.","Ah, it's you, Raven",嗨，是你呀，乌鸦。
+"Root/Диалог Ворона/Вызывали, командир?","Did you call me, commander?",您刚才叫我，指挥官？
+Root/Диалог Бедуина/Заходи.,"Come in. I warn you from the start: anything we talk about is known to several people and I don't want it to change. To be honest, our community is in trouble. We are far from any settlements and always relied on ourself. It was not too smart, yeh. We are running out of food and water purification system is about to break. Seems that soon we have to limit food and water consumption, but it doesn't seems to me as long term solution. We have nothing to offer to other communities, so we have nothing to trade, so there are no resources to repair water purification system and gain some food. Triumverate desided to search solution outside of our community lands. Professor Kravec sure that some scientific complexes are still out there, in which in the past scientists were growing experimental seeds, modified food, and different technologies including purification systems for water, soil etc. designed to solve such probles as our in case of nuclear war. We desided to send someone to find out where this complexes are, to get the information and technology. As you probably guessed, the  guy we wanna send is you.",进来说话。但是我得先警告你，我们这次谈话的内容只有很少人知道，我也不希望有其他更多的人知道。实话实说，我们的组织陷入危机了。我们一直自力更生，远离别的避难所。确实，这做法不大明智。组织的食物马上就要耗尽了，而且净水系统也撑不了多久。看起来组织很快就得被迫限制食物和水的消耗，但我看这根本就不是长久之计。我们得不到其他组织的任何援助，没法交易，没零件修我们的净水系统，也没法找到吃的。三人执政组决定寻找我们组织之外的资源。克拉维克教授坚信还存在一些科技园，之前，那里的科学家们培养实验种子，改良食品，研究各种科学技术，包括水和土壤的净化技术。用来在核战争时应对跟我们现在几乎一样的问题。我们希望能派人去找到那些科技园的位置，得到科技技术。你可能已经猜到了，我们想派你去。
+Root/Диалог Бедуина/Я придерживаюсь того же мнения.,"I thought the same, but someone in triumvirate doesn't share my opinion.",我也是这样想的，但是三人执政组其他人不想考虑我的观点。
+"Root/Диалог Ворона/Почему я, командир?","Why me, commander? Eger are much more experienced than me, he know the world outside the community lands and...",为什么是我呢，指挥官？埃格不比我更有经验吗？他清楚外面的其他组织，也知道...
+Root/Диалог Ворона/Почему?,Why?,为什么啊？
+Root/Диалог Бедуина/Я не вправе об этом говорить.,"I can't talk about it. Decision is made. If you have any other questions, I am listening.",我不能告诉你。这事已经定了。如果你还有什么问题，说，我听着呢。
+Root/Диалог Ворона/Почему так важно мнение Триады?,Why triumvirates opinion is so important?,为什么三人执政组的决定这么重要？
+"Root/Диалог Ворона/И всё-таки, почему не Егерь?","So, why not Eger?",那，为什么不是埃杰呢？
+Root/Диалог Ворона/Где находятся эти комплексы?,Where are the complexes?,那些科技园在哪儿呢？
+Root/Диалог Бедуина/Такая структура была принята на заре образования нашей общины.,"Triumvirate was adopted at the beginning of our community as form of government. In the basic cases the decisions is taking by Commander, but important ones is up to Triumvirate. As you know it consists of: commander, science advicer - Professor Kravec, and public advicer - Milana. Commander is engaged in defence of our lands. Professor is working on resources and water purification system and takes care about health of the community. Milana is trying to solve sosial issues. The idea behind is is that noone can take desicion by themself and noone should ever have unlimited power.",在我们地堡216建立之初，三人执政组就被采用为领导模式。一般情况下，命令都由指挥官下达，但是大的决策都由三人执政组讨论决定。你也知道由谁组成:指挥官，科技顾问克拉维克教授，公众代表米拉娜。指挥官要尽全力保卫我们的领土。教授正忙着处理资源和水的净化系统，同时也负责组织成员的身体健康。米拉娜主要解决社区内的问题。这样好处在于没人能独自做决定，没人能进行独裁统治。
+"Root/Диалог Бедуина/Ладно, скажу.","Okay, I'll tell you. Milana think he is not trustworthy for work outside the community lands. If you remember, before he was part of «Stronghold». She thinks it can affect his loyalty and decisions. Professor thought the same, and from the start propoused you. So the majority of votes were ou your side.",得，我就这么告诉你吧。米拉娜认为他在背地里干的活不大诚实可靠。你知道他之前是《要塞》的人吧。米拉娜觉得这会影响他的忠诚和决定。教授也是这么想的，所以一开始就偏向你了。最终大部分票就全到你这了。
+Root/Диалог Бедуина/Я не знаю.,"I don't know. Only several suggestions, but it's better to talk about it with professor. He'll tell you everything he knows about it.",我也不知道啊。我就是知道点皮毛，但是你可以去找教授。他会告诉你他知道的任何关于那些地方的信息。
+Root/Диалог Ворона/У меня есть другие вопросы.,I have other questions.,我还有个问题。
+Root/Диалог Ворона/Почему мы не озаботились этим раньше?,Why we did not attend to this before?,为什么我们以前没有处理这个问题？
+Root/Диалог Бедуина/Слушаю тебя внимательно.,Why didn't we take care about it earlier?,我们为什么不早点处理呢？
+Root/Диалог Ворона/Что же произошло?,What happended?,到底发生了什么？
+Root/Диалог Ворона/«Шлюз-3»?,«Gateway-3»?,《3号关口》
+Root/Диалог Ворона/Да. Эпидемия. От неё умерла моя мать...,"Yes, epidemic. My mother died of it...",是，流行病。我妈因为这事死了…
+Root/Диалог Ворона/Мне будет нужно снаряжение.,I need equipment.,我需要装备。
+"Root/Диалог Бедуина/Хороший вопрос, Ворон.","A good question, Raven. And its answer hides in the time before your birth. We are in the territory now that was full of strategic sites in the past. Our Bunker was a part of a huge underground complext with the resources for many generations. Then the settlement developed, we formed the Commune, elected the Head, there were many people in it. We had expeditions to search for supplies in other parts of this enormous underground world.",问得好，乌鸦。这就要涉及到你出生之前的事了。我们现在在过去充满战略意义的领土上。我们的地堡是一个巨大的地下综合体的一部分，有着许多代人的资源。后来我们定居在此，然后发展起来，我们成立了组织，选举了领导者，里面有很多人。我们发起远征，到这个巨大的地下世界的其他地方来寻找补给。
+"Root/Диалог Бедуина/Я тогда был не старше тебя, Ворон.","Good point, Raven. The question is in the past, when you are not born yet. We are on territory, which was full of military objects. Our bunker was the part of giant underground complex and resources were available for multiple generations ahead. The settlement was growing an community was founded. A lot of expeditions was sent to find supplies all around the globe.",说的好，乌鸦。问题在于你还未出生的过去。我们那时在一个充满军事要塞的领土上。我们的地堡是巨大的地下建筑群的一部分，未来几代人都可以获得资源。这个定居点逐渐形成了一个组织。许多探险小分队被派往世界各地寻找补给。  
+"Root/Диалог Бедуина/Да, всего из нашего бункера можно было попасть в комплекс.","Yes, it's possible to get into the complex through 3 gateways. The third as I already mentioned is piled and it's impossible to unblock it. The first gate was connected to third, and it's on our lands, but the same blockage is messing it up. What making things worst is that there are alot of mutants. We never managed to clear the place. After one of expeditions we got «S-virus» here. The rest is the history. You know.",是的，有可能通过3个关口进入那些科技园。我前面提到的第三个是封死的，不可能打开。第一道关口与第三道关口相连，它就在我们的土地上，但同样的障碍物把它们弄乱了。最糟糕的是那里有很多突变体。我们从未清理过那地方。在一次探险之后，我们发现了《S病毒》。剩下的就是历史。你就都知道了。 
+Root/Диалог Бедуина/Всё так. Бункер потерял три четверти населения.,"Definitely. Bunker lost 3/4 of its population. There were placed most resources but decision was made and passage has been destroyed. Not sure it was a good idea but commander don't wanted to risk. And now there are not a lot of people. We were using our own resourses, trying to save people and prolongue existance of community, but now we on the edge.",确切地说，地堡丢了3/4的人。大部分资源都被放置在那里，但决策已经做出，通道也被破坏了。虽然这可能不是个好主意，但指挥官不想冒险。现在人不多了。我们利用自己的资源，试图拯救人们，保持组织的存在，但现在我们处在存亡的边缘。
+Root/Диалог Бедуина/Всем необходимым тебя обеспечит Егерь.,Eger will give you all you need. He should also tell you about the world outside of our boundaries.,埃杰会给你你需要的所有东西。他也会告诉你外面的情况。
+"Root/Диалог Ворона/Спасибо, Командир.","Thanks, commander!",谢谢你，指挥官。
+"Root/Диалог Бедуина/Если вопросов больше нет, иди.",If you have no any questions. Talk with professor Eugen and Milana. And remember - don't tell anyone. We don't need a panic.,如果你没问题了，就去找尤金教授和米拉娜聊聊。记住——不能告诉任何人这件事，我们不需要引起的恐慌。
+Root/Диалог Ворона/Вопросов нет.,I have no questions.,我没有其他问题了。
+Root/Завершаем и выдаем задания/Срочный вызов,"<color=""white"">Mission completed:</color>
+Urgent call.","<color=""white"">任务完成：</color>
+紧急谈话。"
+Root/Завершаем и выдаем задания/В дорогу,"<color=""white"">New mission:</color>
+Let's hit the road.","<color=""white"">新任务：</color>
+准备出发。"
+Root/Завершаем и выдаем задания/Подземные научные комплексы.,"<color=""white"">New mission:</color>
+Underground scientific complexes.","<color=""white"">新任务：</color>
+地下科技园。"
+"Root/Диалог Бедуина/Да, чуть не забыл.",I almost forgot. Visit Maks. He is trying to make radio station and he lack of some parts.,我差点忘了。马克斯找你。他想做个无线电台，但是缺点东西。
+Root/Диалог Ворона/Хорошо.,I'll do.,我这就去。
+"Root/Завершаем и выдаем задания/Новое задание ""Дельце Макса""","<color=""white"">New mission:</color>
+Maks business.","<color=""white"">新任务：</color>
+马克斯的事情。"

@@ -1,0 +1,886 @@
+﻿[
+  {
+    "path": "Root/Диалог Бедуина/А, это ты, Ворон.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Ah, it's you, Raven"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Ah, é você, Raven."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "А, это ты, Ворон."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Oh, eres tú, Raven"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "嗨，是你呀，乌鸦。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Вызывали, командир?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Did you call me, commander?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Me chamou, comandante?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Вызывали, командир?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Me llamó, comandante?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "您刚才叫我，指挥官？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Заходи.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Come in. I warn you from the start: anything we talk about is known to several people and I don't want it to change. To be honest, our community is in trouble. We are far from any settlements and always relied on ourself. It was not too smart, yeh. We are running out of food and water purification system is about to break. Seems that soon we have to limit food and water consumption, but it doesn't seems to me as long term solution. We have nothing to offer to other communities, so we have nothing to trade, so there are no resources to repair water purification system and gain some food. Triumverate desided to search solution outside of our community lands. Professor Kravec sure that some scientific complexes are still out there, in which in the past scientists were growing experimental seeds, modified food, and different technologies including purification systems for water, soil etc. designed to solve such probles as our in case of nuclear war. We desided to send someone to find out where this complexes are, to get the information and technology. As you probably guessed, the  guy we wanna send is you."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Заходи. Предупреждаю сразу: об этом разговоре знает только ограниченный круг людей из нашей общины и я хочу, чтобы так и оставалось впредь. Не стану сгущать краски, но наша Община находится в крайне бедственном положении. Мы далеко от основных человеческих поселений и всегда полагались на собственные силы. Это было глупо, но теперь ничего не поделаешь. У нас заканчивается еда, водоочистительная станция едва дышит. Скоро придется назначать строгие нормы выдачи, но и это только полумера. Нам нечего предложить «Большой Земле», нам нечем торговать, а значит у нас нет ресурсов, чтобы отремонтировать водоочиститель и прокормить нашу Общину. Триада приняла решение попытать судьбу далеко за пределами наших территорий. Профессор Кравец уверен, что до сих пор сохранились подземные научные комплексы, в которых в прошлом шла подготовка к возможной ядерной катастрофе: выращивали экспериментальные образцы семян, модифицировали продукты, разрабатывали системы очистки воды и почвы. Мы решили отправить своего человека на поиски этих комплексов, чтобы получить информацию и имеющиеся разработки. Как ты уже наверное понял, этот человек – ты."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Entre. Eu aviso-o desde o início: qualquer coisa sobre a qual falamos é conhecida por várias pessoas e não quero que ela mude. Para ser sincero, nossa comunidade está com problemas. Estamos longe de qualquer assentamento e sempre confiamos em nós mesmos. Não era muito inteligente, sim. Estamos ficando sem alimentos e o sistema de purificação de água está prestes a quebrar. Parece que, em breve, temos que limitar o consumo de alimentos e água, mas não me parece solução de longo prazo. Não temos nada a oferecer a outras comunidades, por isso não temos nada a negociar, então não há recursos para reparar o sistema de purificação de água e ganhar algum alimento. Triumverate desided para pesquisar solução fora de nossas terras da comunidade. O professor Kravec tem certeza de que alguns complexos científicos ainda estão por aí, nos quais, no passado, os cientistas estavam cultivando sementes experimentais, alimentos modificados e diferentes tecnologias, incluindo sistemas de purificação de água, solo etc. projetados para resolver proezas como a nossa em caso de guerra nuclear . Desconsideramos enviar alguém para descobrir onde estão esses complexos, para obter informações e tecnologia. Como você provavelmente adivinhou, o cara que queremos enviar é você."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Entra. Les advierto desde el principio: todo lo que hablamos es conocido por algunas personas y no quiero que cambie. Para ser honesto, nuestra comunidad está en problemas. Estamos lejos de cualquier acuerdo y siempre confiamos en nosotros mismos. No fue muy inteligente, sí. Nos estamos quedando sin comida y el sistema de purificación de agua está a punto de romperse. Parece que pronto tendremos que limitar el consumo de alimentos y agua, pero no me parece una solución a largo plazo. No tenemos nada que ofrecer a otras comunidades, así que no tenemos nada que comerciar, así que no hay recursos para reparar el sistema de purificación de agua y obtener algo de comida. Triumverate deseaba buscar una solución fuera de nuestras tierras comunitarias. El profesor Kravec está seguro de que todavía existen algunos complejos científicos en los que en el pasado los científicos cultivaban semillas experimentales, alimentos modificados y diferentes tecnologías, incluyendo sistemas de purificación de agua, suelo, etc., diseñados para resolver problemas como el nuestro en caso de una guerra nuclear. Queríamos enviar a alguien para averiguar dónde están estos complejos, para obtener la información y la tecnología. Como probablemente adivinaste, el tipo que queremos enviar eres tú."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "进来说话。但是我得先警告你，我们这次谈话的内容只有很少人知道，我也不希望有其他更多的人知道。实话实说，我们的组织陷入危机了。我们一直自力更生，远离别的避难所。确实，这做法不大明智。组织的食物马上就要耗尽了，而且净水系统也撑不了多久。看起来组织很快就得被迫限制食物和水的消耗，但我看这根本就不是长久之计。我们得不到其他组织的任何援助，没法交易，没零件修我们的净水系统，也没法找到吃的。三人执政组决定寻找我们组织之外的资源。克拉维克教授坚信还存在一些科技园，之前，那里的科学家们培养实验种子，改良食品，研究各种科学技术，包括水和土壤的净化技术。用来在核战争时应对跟我们现在几乎一样的问题。我们希望能派人去找到那些科技园的位置，得到科技技术。你可能已经猜到了，我们想派你去。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Я придерживаюсь того же мнения.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I thought the same, but someone in triumvirate doesn't share my opinion."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Я придерживаюсь того же мнения. Но кое-кто в Триаде меня не поддержал."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Eu pensei o mesmo, mas alguém em triumvirate não compartilha minha opinião."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Yo pensaba lo mismo, pero alguien en Triunvirato no comparte mi opinión."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我也是这样想的，但是三人执政组其他人不想考虑我的观点。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Почему я, командир?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Why me, commander? Eger are much more experienced than me, he know the world outside the community lands and..."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Почему я, командир? От Егеря было бы больше пользы, он знает мир за пределами общины и..."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Por que eu, Comandante? Eger é muito mais experiente que eu, ele conhece o mundo la fora e..."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Por qué yo, comandante? Eger tiene mucha más experiencia que yo, conoce el mundo fuera de las tierras de la comunidad y..."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "为什么是我呢，指挥官？埃格不比我更有经验吗？他清楚外面的其他组织，也知道..."
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Почему?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Why?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Почему?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Por que?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Por qué?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "为什么啊？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Я не вправе об этом говорить.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I can't talk about it. Decision is made. If you have any other questions, I am listening."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Я не вправе об этом говорить. Решение принято. Если есть вопросы, задавай."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Não posso falar sobre isso. A decisão foi feita. Se tiver qualquer outra pergunta, estou ouvindo."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "No puedo hablar sobre ello. La decisión ha sido tomada. Si tienes otra pregúnta, estoy escuchando."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我不能告诉你。这事已经定了。如果你还有什么问题，说，我听着呢。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Почему так важно мнение Триады?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Why triumvirates opinion is so important?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Почему так важно мнение Триады?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Por que a opinião de triumvirate é tão importante?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Por qué es tan importante la opinión de los triunviratos?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "为什么三人执政组的决定这么重要？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/И всё-таки, почему не Егерь?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "So, why not Eger?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "И всё-таки, почему не Егерь?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Então, por quê não o Eger?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Entonces, ¿Por qué no Eger?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "那，为什么不是埃杰呢？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Где находятся эти комплексы?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Where are the complexes?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Где находятся эти комплексы?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Onde estão os complexos?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Dónde están los complejos?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "那些科技园在哪儿呢？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Такая структура была принята на заре образования нашей общины.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Triumvirate was adopted at the beginning of our community as form of government. In the basic cases the decisions is taking by Commander, but important ones is up to Triumvirate. As you know it consists of: commander, science advicer - Professor Kravec, and public advicer - Milana. Commander is engaged in defence of our lands. Professor is working on resources and water purification system and takes care about health of the community. Milana is trying to solve sosial issues. The idea behind is is that noone can take desicion by themself and noone should ever have unlimited power."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Такая структура была принята на заре образования нашей Общины. В обычной жизни бункером руководит Командир, но жизненно важные для Общины вопросы решаются Триадой. Ты знаешь, что она состоит из командира, заместителя по науке, которым является Профессор Кравец и заместителя по общественным делам. Сейчас это Милана. Командир распоряжается защитой Бункера наших земель и другими внешними вопросами. Профессор заведует  производством ресурсов, работой с очистителем воды, отвечает за здоровье членов Общины. Милана держит руку на пульсе внутренних проблем, разбирает споры и ссоры, отвечает за благонадежность наших людей, их моральный дух и душевное состояние. По мнению основателей Бункера, в наиболее важные моменты именно большинство голосов в Триаде способно не допустить возникновение ошибочных единоличных решений, не дать никому из нас заиграться властью. Это справедливо и правильно."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Triunvirate foi adotado no início de nossa comunidade como forma de governo. Nos casos básicos, as decisões são tomadas pelo Comandante, mas as mais importantes são as do Triunvirato. Como você sabe, é composto por: comandante, advicer da ciência - Professor Kravec, e advicer público - Milana. O Comandante está envolvido em defesa de nossas terras. Professor está trabalhando em recursos e sistema de purificação de água e cuida da saúde da comunidade. Milana está tentando resolver problemas sosial. A idéia por trás é que ninguém pode tomar desicion por si mesmo e ninguém deve ter poder ilimitado."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "El Triunvirato fue adoptado al principio de nuestra comunidad como forma de gobierno. En los casos básicos las decisiones las toma el Comandante, pero las importantes son del Triunvirato. Como usted sabe, está compuesto por: El comandante, el asesor científico, el profesor Kravec, y el asesor público, Milana. El Comandante está comprometido en la defensa de nuestras tierras. El profesor está trabajando en los recursos y el sistema de purificación de agua y se ocupa de la salud de la comunidad. Milana está tratando de resolver problemas de socialización. La idea detrás es que nadie puede tomar la decisión por sí mismo y nadie debería tener nunca un poder ilimitado."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "在我们地堡216建立之初，三人执政组就被采用为领导模式。一般情况下，命令都由指挥官下达，但是大的决策都由三人执政组讨论决定。你也知道由谁组成:指挥官，科技顾问克拉维克教授，公众代表米拉娜。指挥官要尽全力保卫我们的领土。教授正忙着处理资源和水的净化系统，同时也负责组织成员的身体健康。米拉娜主要解决社区内的问题。这样好处在于没人能独自做决定，没人能进行独裁统治。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Ладно, скажу.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Okay, I'll tell you. Milana think he is not trustworthy for work outside the community lands. If you remember, before he was part of «Stronghold». She thinks it can affect his loyalty and decisions. Professor thought the same, and from the start propoused you. So the majority of votes were ou your side."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Ладно, скажу. Милана считает его не вполне благонадежным для работы за пределами Общины. Ты же знаешь, что раньше Егерь был в «Оплоте». Она думает, что группировка еще каким-то образом влияет на него и это может отразиться на его решениях. Профессор её поддержал, - он с самого начала предлагал твою кандидатуру. Так что я остался в меньшинстве."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Ok, eu vou te contar. Milana pensa que ele não é confiável pelo trabalho fora das terras da comunidade. Se você se lembrar, antes de fazer parte da «Fortaleza». Ela acha que pode afetar sua lealdade e suas decisões. Professor pensou o mesmo, e desde o início propos você. Então, a maioria dos votos foi do seu lado."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "De acuerdo, te lo diré. Milana piensa que no es digno de confianza para el trabajo fuera de las tierras de la comunidad. Si recuerdas, antes era parte de «Stronghold». Cree que eso puede afectar su lealtad y sus decisiones. El profesor pensó lo mismo, y desde el principio te propuso a ti. Así que la mayoría de los votos estaban de tu lado."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "得，我就这么告诉你吧。米拉娜认为他在背地里干的活不大诚实可靠。你知道他之前是《要塞》的人吧。米拉娜觉得这会影响他的忠诚和决定。教授也是这么想的，所以一开始就偏向你了。最终大部分票就全到你这了。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Я не знаю.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I don't know. Only several suggestions, but it's better to talk about it with professor. He'll tell you everything he knows about it."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Я не знаю. Есть несколько предположений, но обо всём этом расспросишь Профессора. Он тебе расскажет всё, что знает об этих комплексах."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Eu não sei. Apenas algumas sujestões, mas é melhor falar com o professor. Ele ira contar tudo o que sabe sobre isso."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "No lo sé. Sólo varias sugerencias, pero es mejor hablar de ello con el profesor. Te dirá todo lo que sabe al respecto."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我也不知道啊。我就是知道点皮毛，但是你可以去找教授。他会告诉你他知道的任何关于那些地方的信息。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/У меня есть другие вопросы.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I have other questions."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "У меня есть другие вопросы."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Tenho outras perguntas."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Tengo otra pregúnta."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我还有个问题。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Почему мы не озаботились этим раньше?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Why we did not attend to this before?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Почему мы не озаботились этим раньше?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Por que não nos incomodamos com isso antes?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Por qué no nos ocupamos de esto antes?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "为什么我们以前没有处理这个问题？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Слушаю тебя внимательно.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Why didn't we take care about it earlier?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Слушаю тебя внимательно."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Por que não fazemos logo?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Por qué no nos ocupamos de eso antes?\r\n"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我们为什么不早点处理呢？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Что же произошло?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "What happended?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Что же произошло?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "O que aconteceu?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Qué pasó?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "到底发生了什么？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/«Шлюз-3»?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "«Gateway-3»?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "«Шлюз-3»?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "«Portão-3»?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "«Puerta-3»?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "《3号关口》"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Да. Эпидемия. От неё умерла моя мать...",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Yes, epidemic. My mother died of it..."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Да. Эпидемия. От неё умерла моя мать..."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Sim, epidemia. Minha mãe morreu disso..."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Si, epidémico. Mi mamá murió de eso..."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "是，流行病。我妈因为这事死了…"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Мне будет нужно снаряжение.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I need equipment."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Мне будет нужно снаряжение."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Preciso de equipamento."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Necesito equipamiento."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我需要装备。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Хороший вопрос, Ворон.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "A good question, Raven. And its answer hides in the time before your birth. We are in the territory now that was full of strategic sites in the past. Our Bunker was a part of a huge underground complext with the resources for many generations. Then the settlement developed, we formed the Commune, elected the Head, there were many people in it. We had expeditions to search for supplies in other parts of this enormous underground world."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Хороший вопрос, Ворон. И ответ на него лежит в тех временах, когда ты еще не родился. Мы находимся на территориях, которые раньше были полны стратегических объектов. Наш Бункер был частью огромного подземного комплекса и ресурсов должно было хватить на много поколений. Тогда поселение развивалось: мы создали Общину, выбрали главу, народу тоже хватало. Целые экспедиции уходили на поиски припасов в другие части этого огромного подземного мира."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Boa pergunta, Raven. E a resposta está naqueles tempos em que você ainda não nasceu. Estamos nos territórios que costumavam ser cheios de instalações estratégicas. Nosso bunker fazia parte de um enorme complexo subterrâneo e os recursos tinham que ser suficientes para muitas gerações. Então o acordo foi desenvolvido: criamos a Comunidade, escolhemos um capítulo, as pessoas também tiveram o suficiente. Expedições inteiras foram encontrar suprimentos para outras partes deste vasto mundo subterrâneo."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "- Buena pregunta, Raven. Y su respuesta se esconde en el tiempo anterior a tu nacimiento. Estamos en un territorio que estaba lleno de lugares estratégicos en el pasado. Nuestro Bunker fue parte de un enorme complejo subterráneo con los recursos durante muchas generaciones. Luego se desarrolló el asentamiento, formamos la Comuna, elegimos a la Cabeza, había mucha gente en ella. Tuvimos expediciones para buscar suministros en otras partes de este enorme mundo subterráneo."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "问得好，乌鸦。这就要涉及到你出生之前的事了。我们现在在过去充满战略意义的领土上。我们的地堡是一个巨大的地下综合体的一部分，有着许多代人的资源。后来我们定居在此，然后发展起来，我们成立了组织，选举了领导者，里面有很多人。我们发起远征，到这个巨大的地下世界的其他地方来寻找补给。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Я тогда был не старше тебя, Ворон.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Good point, Raven. The question is in the past, when you are not born yet. We are on territory, which was full of military objects. Our bunker was the part of giant underground complex and resources were available for multiple generations ahead. The settlement was growing an community was founded. A lot of expeditions was sent to find supplies all around the globe."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Я тогда был не старше тебя, Ворон, а ты вообще только родился. Первое тревожное сообщение мы получили, когда полностью исчезли две экспедиции. Мы не получили даже сигналов бедствия. Они просто не вернулись. В одной из них был твой отец, Патрон. Тогдашний Командир отправил на поиски спасательный отряд, но им не повезло. Они нашли два тела участников одной из экспедиций, а «Шлюз-3», через который они ушли, полностью заваленным."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Boa pergunta, Raven. E a resposta está naqueles tempos em que você ainda não nasceu. Estamos nos territórios que costumavam ser cheios de instalações estratégicas. Nosso bunker fazia parte de um enorme complexo subterrâneo e os recursos tinham que ser suficientes para muitas gerações. Então o acordo foi desenvolvido: criamos a Comunidade, escolhemos um capítulo, as pessoas também tiveram o suficiente. Expedições inteiras foram encontrar suprimentos para outras partes deste vasto mundo subterrâneo."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Buen punto, Raven. La pregunta está en el pasado, cuando aún no habías nacido. Estamos en un territorio que estaba lleno de objetos militares. Nuestro búnker era parte de un gigantesco complejo subterráneo y los recursos estaban disponibles para varias generaciones futuras. El asentamiento estaba creciendo, se fundó una comunidad. Se enviaron muchas expediciones para encontrar suministros por todo el mundo."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "说的好，乌鸦。问题在于你还未出生的过去。我们那时在一个充满军事要塞的领土上。我们的地堡是巨大的地下建筑群的一部分，未来几代人都可以获得资源。这个定居点逐渐形成了一个组织。许多探险小分队被派往世界各地寻找补给。  "
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Да, всего из нашего бункера можно было попасть в комплекс.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Yes, it's possible to get into the complex through 3 gateways. The third as I already mentioned is piled and it's impossible to unblock it. The first gate was connected to third, and it's on our lands, but the same blockage is messing it up. What making things worst is that there are alot of mutants. We never managed to clear the place. After one of expeditions we got «S-virus» here. The rest is the history. You know."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Да. Из нашего бункера можно было попасть в комплекс через три шлюза. Третий, как я тебе уже сказал, был завален и пробиться через него завал не удалось. Первый шлюз соединялся с третьим, он до сих пор находится на наших землях, но тоже упирается в завал. К тому же там полно мутантов, и вычистить их оттуда мы не смогли. А через второй последняя экспедиция принесла «S-вирус». Ты знаешь последствия."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Sim, é possível entrar no complexo através de 3 aberturas. A terceira ja mencionada esta empilhada e é impossivel de abrir. A primeira estava conectada a terceira, e esta em nossas terras, mas o mesmo bloqueio a prende. O que complica as coisas é que tem muitos mutantes. Nunca limpamos o local. Depois de algumas expedições pegamos «S-virus». O resto da historia. Você sabe."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Sí, es posible entrar en el complejo a través de 3 puertas de enlace. El tercero, como ya he mencionado, está amontonado y es imposible desbloquearlo. La primera puerta estaba conectada a la tercera, y está en nuestras tierras, pero el mismo bloqueo la está ensuciando. Lo que empeora las cosas es que hay muchos mutantes. Nunca logramos despejar el lugar. Después de una de las expediciones tenemos el «virus-S» aquí. El resto es historia. Ya sabes."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "是的，有可能通过3个关口进入那些科技园。我前面提到的第三个是封死的，不可能打开。第一道关口与第三道关口相连，它就在我们的土地上，但同样的障碍物把它们弄乱了。最糟糕的是那里有很多突变体。我们从未清理过那地方。在一次探险之后，我们发现了《S病毒》。剩下的就是历史。你就都知道了。 "
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Всё так. Бункер потерял три четверти населения.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Definitely. Bunker lost 3/4 of its population. There were placed most resources but decision was made and passage has been destroyed. Not sure it was a good idea but commander don't wanted to risk. And now there are not a lot of people. We were using our own resourses, trying to save people and prolongue existance of community, but now we on the edge."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Всё так. Бункер потерял три четверти населения. Там остались основные запасы и было принято решение уничтожить переход. Может и не стоило этого делать, но командир не стал рисковать. Ну, а теперь сам знаешь, нас осталось слишком мало. Мы выживали на своих ресурсах, максимально стараясь сберечь людей, пока не подошли к краю."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Definitivamente. O Bunker perdeu 3/4 de sua população. La nós colocamos muitos recursos mas a decisão foi feita e a passagem foi destruida. Sem certeza que foi uma boa idéia mas o comandante não quis arriscar. E agora la não tem muitas pessoas. Estamos usando nossos proprios recursos, tentando salvar e prolongar nossa comunidade, mas agora estamos a beira do precipicio"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Definitivamente. El búnker perdió un 3/4 de su población. Se colocaron la mayoría de los recursos, pero se tomó una decisión y se destruyó el pasaje. No estoy seguro de que fuera una buena idea, pero el comandante no quería arriesgarse. Y ahora no hay mucha gente. Estábamos usando nuestros propios recursos, tratando de salvar a la gente y prolongar la existencia de la comunidad, pero ahora estamos al límite."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "确切地说，地堡丢了3/4的人。大部分资源都被放置在那里，但决策已经做出，通道也被破坏了。虽然这可能不是个好主意，但指挥官不想冒险。现在人不多了。我们利用自己的资源，试图拯救人们，保持组织的存在，但现在我们处在存亡的边缘。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Всем необходимым тебя обеспечит Егерь.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Eger will give you all you need. He should also tell you about the world outside of our boundaries."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Всем необходимым тебя обеспечит Егерь. Он же расскажет тебе всё, что нужно знать о мире за нашими границами."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Eger vai lhe dar o que precisa. Ele tambem ira contar sobre o mundo fora de nossa vizinhança."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Eger te dará todo lo que necesites. También debería hablarte sobre el mundo fuera de nuestras fronteras."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "埃杰会给你你需要的所有东西。他也会告诉你外面的情况。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Спасибо, Командир.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Thanks, commander!"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Спасибо, Командир."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Obrigado comandante!"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¡Gracias, comandante!"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "谢谢你，指挥官。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Если вопросов больше нет, иди.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "If you have no any questions. Talk with professor Eugen and Milana. And remember - don't tell anyone. We don't need a panic."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Если вопросов больше нет, иди. Поговори с Профессором, Миланой и Егерем. И постарайся держать язык за зубами. Нам не нужна паника в Общине."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Se não tiver mais perguntas. Fale com o Professor Eugen e Milana. E lembre - não diga a ninguem. Não precisamos de panico."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Si no tiene ninguna pregunta. Habla con el profesor Eugen y Milana. Y recuerda, no se lo digas a nadie. No necesitamos que cunda el pánico"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "如果你没问题了，就去找尤金教授和米拉娜聊聊。记住——不能告诉任何人这件事，我们不需要引起的恐慌。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Вопросов нет.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I have no questions."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Вопросов нет."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Não tenho perguntas."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "No tengo pregúntas."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我没有其他问题了。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Завершаем и выдаем задания/Срочный вызов",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "<color=\"white\">Mission completed:</color>\nUrgent call."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "<color=\"white\">Missão completa:</color>\nChamada urgente."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "<color=\"white\">Задание выполнено:</color>\nСрочный вызов."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "<color=\"white\">Misión Completada:</color>\nLlamada urgente."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "<color=\"white\">任务完成：</color>\n紧急谈话。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Завершаем и выдаем задания/В дорогу",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "<color=\"white\">New mission:</color>\nLet's hit the road."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "<color=\"white\">Новое задание:</color>\nВ дорогу."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "<color=\"white\">Nova missão:</color>\nVamos pegar a estrada."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "<color=\"white\">Nueva misión:</color>\nVayamos a la carretera."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "<color=\"white\">新任务：</color>\n准备出发。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Завершаем и выдаем задания/Подземные научные комплексы.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "<color=\"white\">New mission:</color>\nUnderground scientific complexes."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "<color=\"white\">Новое задание:</color>\nПодземные научные комплексы."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "<color=\"white\">Nova Missão:</color>\nComplexos cientificos subterraneos."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "<color=\"white\">Nueva misión:</color>\nComplejos científicos subterráneos."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "<color=\"white\">新任务：</color>\n地下科技园。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Бедуина/Да, чуть не забыл.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I almost forgot. Visit Maks. He is trying to make radio station and he lack of some parts."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Да, чуть не забыл. Загляни к Максу. Он пытается собрать станцию для перехвата радио сигналов, но у него не хватает каких-то деталей для завершения работы."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Quase esqueci. Visite Max. Ele esta tentando criar uma estação de radio e perdeu algumas partes."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Casi lo olvido. Visitá a Max. Está tratando de hacer una estación de radio y le faltan algunas partes."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我差点忘了。马克斯找你。他想做个无线电台，但是缺点东西。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Хорошо.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I'll do."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Хорошо. Я обязательно зайду и поговорю с ним."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Eu farei."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Lo haré."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我这就去。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Завершаем и выдаем задания/Новое задание \"Дельце Макса\"",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "<color=\"white\">New mission:</color>\nMaks business."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "<color=\"white\">Новое задание:</color>\nДельце Макса."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "<color=\"white\">Nova missão:</color>\nServiço do Max"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "<color=\"white\">Nueva misión:</color>\nNegocio de Maks."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "<color=\"white\">新任务：</color>\n马克斯的事情。"
+      }
+    ],
+    "isAdditionalString": false
+  }
+]
