@@ -1,0 +1,470 @@
+﻿[
+  {
+    "path": "Root/Диалог Академика/О, Ворон! Слыхал что-то об объектах Х11, Х13 и Х15?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Ah, Raven! Did you hear about objects X11, X13 and X15?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Ah, Raven! Você ouviu falar dos projetos X11, X13 e X15?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "О, Ворон! Слыхал что-то об объектах Х11, Х13 и Х15?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¡Ah, Raven! ¿Has oído hablar de los objetos X11, X13 y X15?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "嗨，乌鸦！你听说过地堡X11，X13和X15吗？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Я знаю только о шлюзах, которые когда-то были запасными или дополнительными входами в наш бункер.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I know only about emergency gateways, which also served as additional entrances to your bunker. What you are talking about? What are the objects?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Só sei sobre entradas de emergencia, que serviram de entrada para o bunker. Do que esta falando? O que são esses objetos?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Я знаю только о шлюзах, которые когда-то были запасными или дополнительными входами в наш бункер. А ты о чем говоришь? Что это за объекты?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Sólo conozco las puertas de emergencia, que también servían como entradas adicionales a su búnker. ¿De qué estás hablando? ¿Qué son los objetos?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "我只了解紧急出入口，那也是通往你的地堡的入口。你在说些什么？那些目标指的是什么？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Академика/Тоже бункеры.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "There are also bunkers. They are a bit smaller than ours. They were used as inviolable reserve storages."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Тоже бункеры, немного меньше нашего. Их больше использолвали как дополнительные склады для хранения неприкосновенных запасов."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Eles são bunkers. Menores que o nosso. Usados como estoques de reserva inviolaveis."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "También hay búnkeres. Son un poco más pequeños que los nuestros. Se utilizaban como almacenes de reserva inviolables."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "那里也有地堡。比我们的要小一些。它们被用作坚不可摧的储备仓库。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Погоди...",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Wait a minute... It seems I heard something about that. But as they say, lot of them were plundered by marauders while other were devoured by the wastelands."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Погоди... Мне кажется я что-то слышал о подобных хранилищах. Но, как говорят, многие из них сожрала Пустошь или они были разграблены мародерами. А к чему весь этот разговор?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Espere um minuto... Parece que ouvi algo sobre isso. Mas como dizem, grande parte deles foram invadidos por Marauders enquanto outros foram devorados pelas Wastelands."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Espera un momento.... Parece que oí algo sobre eso. Pero como dicen, muchos de ellos fueron saqueados por merodeadores mientras que otros fueron devorados por los páramos."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "等等…似乎我听说过那个。但正如他人所言，大部分被掠夺者所攫取，其他一部分被荒漠所侵蚀。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Академика/Мне тут недавно попались кое-какие записи на глаза...",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "I saw one not so long ago, interesting notes... There was an interesting line where was told about X11, X13 and X15 that have not been yet found. As you say: they were devoured by the wastelands."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Мне тут недавно попались кое-какие записи на глаза... Так вот. В них упоминалось об Х11, Х13 и Х15, которые до сих пор не найдены. Как ты говоришь - их Пустошь сожрала."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Eu vi um não muito longe, notas interessantes... Tinha uma parte contando sobre X11, X13 e X15 que ainda não foram encontrados. Como disse: Foram devorados pelas Wastelands"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Vi uno no hace mucho tiempo, notas interesantes.... Había una línea interesante donde se hablaba de X11, X13 y X15 que aún no se han encontrado. Como usted dice: fueron devorados por los páramos."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "不久前我也曾见过，有意思的笔记…其中有句耐人寻味的话谈及还未被发现的X11，X13和X15。如你所说：它们被荒漠毁减了。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Продолжай.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Keep talking."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Продолжай."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Continue falando."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Sigue hablando"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "继续说。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Академика/Судя по записям, два из этих объектов находились недалеко от Бункера 216.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "The document says that two of them are near bunker-216. Interesting, yeh?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Судя по записям, два из этих объектов находились недалеко от Бункера 216. Понимаешь, о чем я?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "O documento diz que 2 deles estão proximos ao bunker-216. Interessante, né?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "El documento dice que dos de ellos están cerca del búnker 216. Interesante, ¿verdad?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "文件表明其中两者在地堡216附近。有意思吧？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Понимаю...",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Surely... but not one of our raiders saw them. They know the lands of the communities better than anyone. See what I am talking about? It's not likely."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Понимаю... Только ни один из наших рейдов, исходивших эти земли вдоль и поперек, не натыкались на эти хранилища."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Claro... Mas nenhuma de nossas patrulhas viu eles. Eles conhecem as terras da comunidade melhor que ninguem. Entende? Não parece."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Seguramente... pero ninguno de nuestros asaltantes los vio. Conocen las tierras de las comunidades mejor que nadie. ¿Ves de lo que estoy hablando? No es probable."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "当然…但是没有一个侵入者看见过它们。他们比我们更清楚公共地带。知道我在说什么了吗？不太可能。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Академика/Ну, Ворон, всякое бывает.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Anything can happen, Raven. Who knows the truth? I told you what I know and you have to decide what to do with it..."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Ну, Ворон, всякое бывает. Я так, на всякий случай тебе рассказал. Вдруг чего..."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Tudo pode acontecer, Raven. Quem sabe a verdade? Eu disse o que sei, e você deve decidir o que fazer com isso..."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Cualquier cosa puede pasar, Raven. ¿Quién sabe la verdad? Te dije lo que sé y tienes que decidir qué hacer con él..."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "什么事都可能发生，乌鸦。谁知道真相呢？我告诉你我所了解的，你得自行甄别…"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Спасибо, Академик. Я пойду.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Thanks, Academician, I'll go."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Спасибо, Академик. Я пойду."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Obrigado, Academico, Eu vou agora."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Gracias, Académico, iré."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "谢谢，阿卡德米恩。我会去的。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Академика/Значит не врут старые бумаги!",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "So, it was a truth! In our lands are two objects, and one in terra incognita. But I don't know exactly where. But you can find it if you try."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Значит не врут старые бумаги! Ворон, в наших краях находятся два таких объекта и еще один где-то в неизведанных землях. Где именно - такой информацией я не обладаю. Придется поискать."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Então essa era a verdade! Nas nossas terras tem 2 objetos, e um em terra incognita. Mas não sei exatamente onde. Mas pode achar se tentar."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Así que, ¡era una verdad! En nuestras tierras hay dos objetos, y uno en terra incognita. Pero no sé exactamente dónde. Pero puedes encontrarlo si lo intentas."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "所以这是真的！在我们的领地上有两个目标，其中一个在某个未知领域。我不知道具体在哪里，但是如果你试试应该能找到。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/До недавнего времени только какие-то упоминания, а теперь убедился в том, что эти объекты действительно существуют.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Until recently there were only some mentionings, and now we are sure they exist. Some of them I managed to find."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "До недавнего времени только какие-то упоминания, а теперь убедился в том, что эти объекты действительно существуют. Некоторые мне удалось найти."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Enquanto recentemente tem apenas algumas menções, agora temos certeza que existem. Alguns eu encontrei."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Hasta hace poco había sólo algunas menciones, y ahora estamos seguros de que existen. Algunos de ellos los he encontrado."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "直到最近才有所听闻，现在我们已经确信它们确实存在。有一些已经被我成功发掘。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Выходит, что не врут...",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Seems that the documents do not lie... Let's find the remaining ones. What is in your papers?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Выходит, что не врут... Что же, поищем оставшиеся хранилища. А что еще есть в твоих бумагах?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Parece que os documentos não mentem... Vamos achar o resto. O que tem nos seus papeis?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Parece que los documentos no mienten... Encontremos los que quedan. ¿Qué hay en sus papeles?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "看来文件的内容是真的……让我们来找找其余的吧。你的文件里有什么？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Академика/Ты об убежищах? Больше ничего.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Are you talking about the objects? Nothing more. At the moment these are the only documents I've  found. But I think the world is full of secrets."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Ты об убежищах? Больше ничего. На данный момент, к сожалению, - это единственные бумаги, которые попали мне в руки. Но я думаю, что наш мир полон всяких загадок."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Esta falando sobre os objetos? Nada mais. Até o momento esses são os unicos documentos que achei. Mas pense que esse mundo é cheio de segredos."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Estás hablando de los objetos? Nada más. Por el momento estos son los únicos documentos que he encontrado. Pero creo que el mundo está lleno de secretos."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "你是说那些目标吗？没别的了。这是我目前唯一找到的文档。不过我认为这个世界充满了秘密。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Например?",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Kinda?"
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Например?"
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Parece?"
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "¿Eso parece?"
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "比如？"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Академика/Долгое время после катострофы, люди не могли выходить на поверхность на очень длительное время.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Long time after the accident, people couldn't get back to surface. Nature took away its territories during that period. In the very different places under the layer of dust and sand, can be a lot of things. Your find can save our community and others from extinction. So, if you find any documents or old computer disks, bring them to me. Maybe I'll find something interesting there."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Долгое время после катострофы, люди не могли выходить на поверхность на очень длительное время. За этот период природа взяла свое обратно, отнимая у человека назад свои территории. В самых разных местах, под толстым слоем песков и развалин, может скрываться много интересного. Твоя находка может спасти нашу Общину и других выживших от вымирания. Так что, Ворон, если найдешь на первый взгляд не нужные бумаги или старые компьютеные диски - тащи все мне, посмотрим, может еще чего интересного раскопаем."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Muito tempo atras, depois do acidente, as pessoas não conseguiram voltar a superficie. Em varios lugares diferentes em baixo da areia e do pó, pode ter varias coisas. O que encontrar pode salvar nossa comunidade e outras da estinção. Então, se encontrar qualquer documento ou velhos discos de computador, traga para mim. Talvez eu encontre algo interessnte."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Mucho tiempo después del accidente, la gente no podía volver a la superficie. La naturaleza se llevó sus territorios durante ese período. En los muy diferentes lugares bajo la capa de polvo y arena, puede haber muchas cosas. Su hallazgo puede salvar a nuestra comunidad y a otros de la extinción. Así que, si encuentras algún documento o disco de computadora viejo, tráemelo. Tal vez encuentre algo interesante allí."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "事故发生之后的很长一段时间里，人们无法回到地面上。大自然在此期间夺回了它的领地。有很多东西埋在不同的沙尘层下。你找到的东西可以拯救我们的组织和其他成员免于灭亡。所以如果你找到了任何文档或者旧的电脑磁盘，带来给我。或许我能在里面找到一些有趣的东西。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Диалог Ворона/Договорились.",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "Deal. If I find something I'll give it to you."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "Договорились. Если что-то наду, сразу принесу тебе."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "Certo. Se eu achar algo eu entrego para você."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "Trato hecho. Si encuentro algo, te lo daré."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "成交，如果我找到什么就交给你。"
+      }
+    ],
+    "isAdditionalString": false
+  },
+  {
+    "path": "Root/Сообщения/Новое задание \"Старые записи\"",
+    "pairs": [
+      {
+        "Language": "English",
+        "LocalizedString": "<color=\"white\">New Mission:</color>\nOld notes."
+      },
+      {
+        "Language": "Portuguese",
+        "LocalizedString": "<color=\"white\">Nova Missão:</color>\nVelhos documentos."
+      },
+      {
+        "Language": "Russian",
+        "LocalizedString": "<color=\"white\">Новое задание:</color>\nСтарые записи."
+      },
+      {
+        "Language": "Spanish",
+        "LocalizedString": "<color=\"white\">Nueva misión:</color>\nNotas viejas."
+      },
+      {
+        "Language": "ChineseTraditional",
+        "LocalizedString": "<color=\"white\">新任务：</color>\\n旧记录。"
+      }
+    ],
+    "isAdditionalString": false
+  }
+]

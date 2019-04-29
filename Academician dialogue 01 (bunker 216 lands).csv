@@ -1,0 +1,19 @@
+﻿"Root/Диалог Академика/О, Ворон! Слыхал что-то об объектах Х11, Х13 и Х15?","Ah, Raven! Did you hear about objects X11, X13 and X15?",嗨，乌鸦！你听说过地堡X11，X13和X15吗？
+"Root/Диалог Ворона/Я знаю только о шлюзах, которые когда-то были запасными или дополнительными входами в наш бункер.","I know only about emergency gateways, which also served as additional entrances to your bunker. What you are talking about? What are the objects?",我只了解紧急出入口，那也是通往你的地堡的入口。你在说些什么？那些目标指的是什么？
+Root/Диалог Академика/Тоже бункеры.,There are also bunkers. They are a bit smaller than ours. They were used as inviolable reserve storages.,那里也有地堡。比我们的要小一些。它们被用作坚不可摧的储备仓库。
+Root/Диалог Ворона/Погоди...,"Wait a minute... It seems I heard something about that. But as they say, lot of them were plundered by marauders while other were devoured by the wastelands.",等等…似乎我听说过那个。但正如他人所言，大部分被掠夺者所攫取，其他一部分被荒漠所侵蚀。
+Root/Диалог Академика/Мне тут недавно попались кое-какие записи на глаза...,"I saw one not so long ago, interesting notes... There was an interesting line where was told about X11, X13 and X15 that have not been yet found. As you say: they were devoured by the wastelands.",不久前我也曾见过，有意思的笔记…其中有句耐人寻味的话谈及还未被发现的X11，X13和X15。如你所说：它们被荒漠毁减了。
+Root/Диалог Ворона/Продолжай.,Keep talking.,继续说。
+"Root/Диалог Академика/Судя по записям, два из этих объектов находились недалеко от Бункера 216.","The document says that two of them are near bunker-216. Interesting, yeh?",文件表明其中两者在地堡216附近。有意思吧？
+Root/Диалог Ворона/Понимаю...,Surely... but not one of our raiders saw them. They know the lands of the communities better than anyone. See what I am talking about? It's not likely.,当然…但是没有一个侵入者看见过它们。他们比我们更清楚公共地带。知道我在说什么了吗？不太可能。
+"Root/Диалог Академика/Ну, Ворон, всякое бывает.","Anything can happen, Raven. Who knows the truth? I told you what I know and you have to decide what to do with it...",什么事都可能发生，乌鸦。谁知道真相呢？我告诉你我所了解的，你得自行甄别…
+"Root/Диалог Ворона/Спасибо, Академик. Я пойду.","Thanks, Academician, I'll go.",谢谢，阿卡德米恩。我会去的。
+Root/Диалог Академика/Значит не врут старые бумаги!,"So, it was a truth! In our lands are two objects, and one in terra incognita. But I don't know exactly where. But you can find it if you try.",所以这是真的！在我们的领地上有两个目标，其中一个在某个未知领域。我不知道具体在哪里，但是如果你试试应该能找到。
+"Root/Диалог Ворона/До недавнего времени только какие-то упоминания, а теперь убедился в том, что эти объекты действительно существуют.","Until recently there were only some mentionings, and now we are sure they exist. Some of them I managed to find.",直到最近才有所听闻，现在我们已经确信它们确实存在。有一些已经被我成功发掘。
+"Root/Диалог Ворона/Выходит, что не врут...",Seems that the documents do not lie... Let's find the remaining ones. What is in your papers?,看来文件的内容是真的……让我们来找找其余的吧。你的文件里有什么？
+Root/Диалог Академика/Ты об убежищах? Больше ничего.,Are you talking about the objects? Nothing more. At the moment these are the only documents I've  found. But I think the world is full of secrets.,你是说那些目标吗？没别的了。这是我目前唯一找到的文档。不过我认为这个世界充满了秘密。
+Root/Диалог Ворона/Например?,Kinda?,比如？
+"Root/Диалог Академика/Долгое время после катострофы, люди не могли выходить на поверхность на очень длительное время.","Long time after the accident, people couldn't get back to surface. Nature took away its territories during that period. In the very different places under the layer of dust and sand, can be a lot of things. Your find can save our community and others from extinction. So, if you find any documents or old computer disks, bring them to me. Maybe I'll find something interesting there.",事故发生之后的很长一段时间里，人们无法回到地面上。大自然在此期间夺回了它的领地。有很多东西埋在不同的沙尘层下。你找到的东西可以拯救我们的组织和其他成员免于灭亡。所以如果你找到了任何文档或者旧的电脑磁盘，带来给我。或许我能在里面找到一些有趣的东西。
+Root/Диалог Ворона/Договорились.,Deal. If I find something I'll give it to you.,成交，如果我找到什么就交给你。
+"Root/Сообщения/Новое задание ""Старые записи""","<color=""white"">New Mission:</color>
+Old notes.","<color=""white"">新任务：</color>\n旧记录。"
