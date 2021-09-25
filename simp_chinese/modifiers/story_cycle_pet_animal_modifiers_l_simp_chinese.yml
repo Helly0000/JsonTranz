@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ cat_story_modifier:0 "宠物猫"
+ cat_story_modifier_desc:0 "该角色喜欢猫咪的陪伴"
+ dog_story_modifier:0 "宠物狗"
+ dog_story_modifier_desc:0 "无论该角色去哪儿，总有忠犬相随"
+ dog_story_walking_modifier:0 "遛狗"
+ dog_story_walking_modifier_desc:0 "该角色喜欢经常遛狗"
+ dog_story_fur_carpet_modifier:0 "毛皮地毯"
+ dog_story_fur_carpet_modifier_desc:0 "该角色有副漂亮的毛皮地毯"
+ cat_story_allergy_modifier:0 "对猫过敏"
+ cat_story_allergy_modifier_desc:0 "由于接触猫咪，该角色正经受扰人的症状"
+ cat_killing_rodents_modifier:0 "天下无鼠"
+ cat_killing_rodents_modifier_desc:0 "该角色的住处几乎看不到老鼠"

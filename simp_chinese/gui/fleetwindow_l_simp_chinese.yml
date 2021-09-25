@@ -1,0 +1,19 @@
+﻿# === [LocEditor:OrphanedFile] File contains only orphaned keys ===
+l_simp_chinese:
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ FW_FLEET_HEADER:0 "舰队"
+ FW_GATHERING_FLEET_HEADER:0 "正在集合舰队"
+ FW_SHIPS_INFO:0 "$VALUE|V$条船"
+ FW_CAPACITY_INFO:0 "可运载$VALUE|V$名[soldiers|E]"
+ FW_GATHERING_INFO:0 "正在集合：$VALUE$剩余"
+ CANNOT_DISBAND_WHILE_EMBARKED:0 "@warning_icon!#X 不能解散正在登船或已有军队登船的[fleets|E]#!"
+ CANNOT_MERGE_NO_FLEETS:0 "@warning_icon!#X 选中的[fleets|E]没有可以合并的#!"
+ CANNOT_SPLIT_FLEET_EMBARKED:0 "@warning_icon!#X 只有军队未登船的船只可以分割到新舰队#!"
+ CANNOT_SPLIT_FLEET_FEW_SHIPS:0 "@warning_icon!#X [fleet|E]没有足够船只#!"
+ DISBAND_FLEET_CONFIRM_TITLE:0 "解散"
+ DISBAND_FLEET_CONFIRM:0 "真的要解散一支有$VALUE|V$艘船的[fleet|E]吗？"
+ DISBAND_FLEET_CONFIRM_SHIPS_LOSS:0 "真的要解散一支有$VALUE|V$艘船的[fleet|E]吗？\n$LOSS|V$艘船会损失，之后会随时间逐渐恢复。"
+ DISBAND_FLEET:0 "#T 解散[fleet|E]#! "
+ MERGE_FLEET:0 "#T 合并[fleets|E]#!"
+ SPLIT_FLEET_IN_HALF:0 "#T 平分这支[fleet|E]#!"

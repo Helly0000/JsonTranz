@@ -1,0 +1,51 @@
+﻿l_simp_chinese:
+ #GetSmallFood
+ #GetSmallFoodIndef
+ food_word_apple:0 "苹果"
+ food_word_apple_indef:0 "苹果"
+ food_word_biscuit:0 "饼干"
+ food_word_biscuit_indef:0 "饼干"
+ #GetClothingArticle
+ clothing_word_shirt:0 "衬衫"
+ clothing_word_trousers:0 "长裤"
+ clothing_word_blouse:0 "罩衫"
+ clothing_word_dress:0 "连衣裙"
+ #GetFoodDetail
+ food_detail_cilantro:0 "芫荽"
+ food_detail_lemon:0 "柠檬"
+ food_detail_almond:0 "杏仁"
+ #GetExpensiveMeal
+ expensive_food_roast_swan:0 "烤天鹅"
+ expensive_food_veal_cutlets:0 "嫩牛切片"
+ expensive_food_fresh_quail:0 "新鲜鹌鹑肉"
+ expensive_food_baked_truffles:0 "烤松露"
+ expensive_food_spiced_breads:0 "香料面包"
+ expensive_food_mustard_rolls:0 "芥末面包卷"
+ #GetExpensiveMealAlt
+ expensive_food_fine_cheeses:0 "优质奶酪"
+ expensive_food_almond_eggs:0 "杏仁蛋"
+ expensive_food_sturgeon_caviar:0 "鲟鱼鱼子酱"
+ #GetExpensiveDessert
+ expensive_dessert_saffron_cake:0 "藏红花蛋糕"
+ expensive_dessert_candied_figs:0 "无花果蜜饯"
+ expensive_dessert_pomegranate_cake:0 "石榴蛋糕"
+ expensive_dessert_entremets:0 "甜点"
+ expensive_dessert_quince_tarts:0 "榅桲挞"
+ #GetExpensiveDrink
+ expensive_drink_fancy_champagne:0 "贵重香槟"
+ expensive_drink_foreign_liqueurs:0 "异域利口酒"
+ expensive_drink_spiced_wine:0 "香料葡萄酒"
+ expensive_drink_premium_tea:0 "优质茶"
+ expensive_drink_violet_sharbah:0 "堇菜渴水"
+ expensive_drink_aribica_coffee:1 "小粒咖啡"
+ #GetExpensiveDrink_Singular
+ expensive_drink_singular_fancy_champagne:0 "$expensive_drink_fancy_champagne$"
+ expensive_drink_singular_foreign_liqueurs:0 "异域利口酒"
+ expensive_drink_singular_spiced_wine:0 "香料葡萄酒"
+ expensive_drink_singular_premium_tea:0 "优质茶"
+ expensive_drink_singular_violet_sharbah:0 "$expensive_drink_violet_sharbah$"
+ expensive_drink_singular_aribica_coffee:0 "$expensive_drink_aribica_coffee$"
+ #GetShockedExpression
+ shocked_expression_shocked:0 "震惊了"
+ shocked_expression_appalled:0 "吓坏了"
+

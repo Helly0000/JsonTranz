@@ -1,0 +1,33 @@
+﻿l_simp_chinese:
+ south_asia.0001.t:0 "新时代"
+ south_asia.0001.desc:0 "人群歌颂我的名字，我在天泉之水中洁净自己。我作为转轮圣王——全世界正当且仁善的统治者——起身。\n\n[ROOT.Char.GetFaith.AltPriestTermPlural]们告诉我，是时候让全世界接受我光明的指引，但我不需要他们的保证。我望向平原之外，此番信念早已在我灵魂深处回荡。"
+ south_asia.0001.a:0 "全世界都在呼喊我的名字。"
+
+ south_asia.0002.t:0 "转轮圣王"
+ south_asia.0002.intro:0 "人群徒步数日甚至数周来参与典礼。[chakravarti.GetTitledFirstNamePossessive]的一生都是为了这一刻。"
+ south_asia.0002.text:0 "\n\n在震惊的静默中，我看着我的[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('chakravarti'))]从圣泉中浮出。[chakravarti.GetHerHis|U]的[chakravarti.GetFaith.AltPriestTermPlural]宣布[chakravarti.GetHerHim]为转轮圣王，我们仁善的[chakravarti.GetLadyLord]。\n\n现在没人能质疑[chakravarti.GetSheHe]是全世界的正当统治者。"
+ south_asia.0002.a:0 "我很荣幸见证了这一刻。"
+ south_asia.0002.b:0 "让我欢欣鼓舞，对你五体投地！"
+
+ south_asia.0003.text:0 "\n\n当我的[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('chakravarti'))]从圣泉中冒出时，那个时刻的全部威能震住了我。[chakravarti.GetHerHis|U]的[chakravarti.GetFaith.AltPriestTermPlural]宣布[chakravarti.GetHerHim]是转轮圣王，全世界的合法统治者。\n\n当[chakravarti.GetTitledFirstName]眺望下方的大地，我不自禁地感到这的确是真的。"
+ south_asia.0003.a:0 "让我加入你的凯旋吧，我的领主！"
+ south_asia.0003.b:0 "世界统治者的下一个目标是谁？"
+
+ south_asia.0004.relevant_religion:0 "成群结队的信使从印度帝国带来消息。一代转轮圣王已然崛起，这实属此世首次。"
+ south_asia.0004.desc:0 "来自印度的信使纷至沓来，宣告他们“转轮圣王”的崛起，交口称赞着[chakravarti.GetHerHis]的仁慈。"
+ south_asia.0004.text:0 "\n\n盛大的仪式，大批信众匍匐在[chakravarti.GetHerHis]的脚前，[chakravarti.GetTitledFirstName]正式接纳全世界正当统治者这一职责。"
+ south_asia.0004.a:0 "[chakravarti.GetSheHe]会是个新的威胁，还是个新的盟友呢？"
+ south_asia.0004.b:0 "异教徒可以留着他们可笑的宣称！"
+
+ south_asia.0011.t:0 "神圣之水"
+ south_asia.0011.desc:0 "整整一天，从日出到日落，我挺直着腰站在奔涌的河水里。我用手将水舀起举向天空，然后任水落下。周而复始。\n\n我回到干燥的土地上时浑身发抖，在那里我得到了下级[ROOT.Char.GetFaith.PriestNeuterPlural]的问候。我发誓我的保护不会仅仅包括今天流过我双手的河水，甚至包括整条河，以及它流淌过的所有生灵。"
+ south_asia.0011.a:0 "没人能质疑我对[ROOT.Char.GetFaith.HighGodName]的奉献。"
+
+ south_asia.0012.desc:0 "由于控制了恒河全部流域，[ruler_of_ganges.GetTitledFirstName]宣称为它的神圣之水的属灵守卫。有人宣称这个权威是没有先例的，但是[ruler_of_ganges.GetFaith.PriestNeuterPlural]宣布这是真实可靠的。"
+ south_asia.0012.a.like:0 "似乎永恒有了新的守卫者。"
+ south_asia.0012.a.dislike:0 "搞得像是有人会尊重[ruler_of_ganges.GetHerHim]这种投机取巧的人似的！"
+
+ south_asia.0013.t:0 "我的神圣意图被篡夺"
+ south_asia.0013.desc:0 "由于我损失了领土，我对恒河的权威不再为人们和我领地的[ROOT.Char.GetFaith.PriestNeuterPlural]所尊重！而且[ruler_of_ganges.GetTitledName]夺走了我曾一度担任的圣河管理者一职。"
+ south_asia.0013.a:0 "那个暴发户不过是一个骗子！"
+ 

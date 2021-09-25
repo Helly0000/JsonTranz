@@ -1,0 +1,41 @@
+﻿l_simp_chinese:
+
+ stewardship_lifestyle_rank_up_indication:1 "我可能获得一个[stewardship_lifestyle|E][perk|E]"
+ 
+ ###################
+ # Standard Events #
+ ###################
+
+ # Peasant mob brings someone before you, accusing them of witchcraft. By Sean Hughes 
+ stewardship_general.1054.t:0 "[witch.Custom('MagicPracticeTerm')|U]的控诉"
+ stewardship_general.1054.desc:0 "沾血的布料……乌鸦的羽毛……气味奇怪的调制品。这是[target_county.GetNameNoTier]的一伙农民呈给我的证据，证明[witch.GetFirstName]在他们村庄外围的[witch.GetHerHis]的木屋里，一直在进行[witch.Custom('MagicPracticeTerm')]。\n\n村民们声称[witch.GetHerHis]的邪恶术式一定是导致他们[witch.Custom('MagicSuperstitionTerm')]的原因，并要求处决[witch.GetHerHis]。"
+ stewardship_general.1054.a:0 "这些“证据”都是间接的。释放[witch.GetHerHim]。"
+ stewardship_general.1054.b:0 "[witch.GetSheHe|U]应为[witch.GetHerHis]忤逆[ROOT.Char.GetFaith.HighGodName]的罪行而被烧死！"
+ stewardship_general.1054.c:0 "你的说是[witch.Custom('MagicUserTerm')]？我可以起用一名新顾问了。"
+ stewardship_general.1054.d:0 "为[witch.GetHerHim]筹备一场盛大的处决……"
+ stewardship_general.1054.d.flavor:0 "……但实际上把[witch.GetHerHim]偷偷送到我的宫廷！"
+
+ # Build a fish pond, by Linnéa Thimrén
+ stewardship_general.5011.t:0 "鲤鱼"
+ stewardship_general.5011.desc:0 "“[ROOT.Char.GetLadyLord]，如果你感兴趣的是鲤鱼池塘，我可以为你造一个了不起的池子！”\n\n我面前的这名建筑工拥有可靠的证明，而且我的廷臣们很想看到所建成的景观……"
+ stewardship_general.5011.a:0 "你将得到你需要的一切资源！"
+ stewardship_general.5011.b:0 "那#EMP 真的是#!你能给我的最好的货吗？"
+ stewardship_general.5011.b.message_1:0 "你做了一笔不错的交易"
+ stewardship_general.5011.b.message_2:1 "这名建筑工在才学上远胜于你"
+ stewardship_general.5011.c:0 "别再浪费我的时间了！"
+ stewardship_general.5011.every_courtier:1 "所有[courtier|E]"
+
+ stewardship_general.5013.t:0 "池底凶兽"
+ stewardship_general.5013.desc:0 "我在花园里散步时，注意到我的[ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('carp_food')) ][carp_food.GetTitledFirstName]正坐在鲤鱼池边的一块石头上。[carp_food.GetSheHe]俯下身子，用[carp_food.GetHerHis]的手指搅动着池水。水面波动，显露出了下面的一个阴影……"
+ stewardship_general.5013.a:0 "[carp_food.GetFirstNameNoTooltip]，快退后！从那边离开……不——！"
+
+ # Catch a servant stealing from me, by Linnéa Thimrén
+ stewardship_general.5041.t:0 "劣仆"
+ stewardship_general.5041.desc:0 "有个低贱的[ROOT.GetCharacter.Custom('lowly_servant_type')]一直从我家里偷东西！"
+ stewardship_general.5041.desc_highgod:0 "那个[servant_character.GetWomanMan]畏缩在我面前，哭诉着家里挨饿的孩子，希望我以[ROOT.Char.GetFaith.HouseholdGodName]的名义网开一面。"
+ stewardship_general.5041.desc_other:0 "这个[servant_character.GetWomanMan]畏缩在我面前，哭诉着家里挨饿的孩子，并乞求我的宽恕。"
+ stewardship_general.5041.desc_ending:0 "\n\n“求你了，[ROOT.Char.GetLadyLord]，我会做你要求的任何事！”"
+ stewardship_general.5041.a:0 "让[servant_character.GetHerHim]体验一下真正的饥饿是什么感觉。"
+
+ stewardship_general.5041.b:0 "囚禁[servant_character.GetHerHim]。"
+ stewardship_general.5041.c:0 "展示仁慈并赢得[servant_character.GetHerHis]的忠心。"

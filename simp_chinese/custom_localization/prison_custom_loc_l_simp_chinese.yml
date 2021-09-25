@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ #PrisonType
+ prisontype_dungeon:0 "地牢"
+ prisontype_house_arrest:0 "软禁"
+ #PrisonTypeCell
+ prisontypecell_dungeon_cell:0 "地牢牢房"
+ prisontypecell_house_arrest:0 "软禁居所"
